@@ -1,0 +1,3 @@
+sources:
+  reflectasm-1.09.tar.gz: 7010f3dd568889be9d00a153650872dc86159aa3
+  reflectasm-1.09-asm9-classversion.patch: 57a2df05f1dd8f872258e256292ac81724fdfd7e
